@@ -19,3 +19,9 @@ Recursively encrypt and decrypt files or directories with a password
 ./fencrypt dir-decrypt <directory> [-p password]
 ```
 <img width="498" height="280" alt="221795" src="https://github.com/user-attachments/assets/24e99a7e-e0f6-4145-bf9d-ebe10cb84844" />
+
+## Build
+
+```bash
+make clean && make
+```
